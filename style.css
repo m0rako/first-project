@@ -7,3 +7,8 @@ h1 {
     padding: 20px;
     background-color: aqua;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+}
